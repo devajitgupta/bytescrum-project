@@ -1,0 +1,30 @@
+
+
+
+
+.container{
+    text-align: center;
+    background-color: aqua;
+    width: 50%;
+    height: 350px;
+}
+.main{
+    text-align: center;
+    margin-top: 20px;
+
+
+}
+
+.title{
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+    
+}
+.show-data{
+    width: 80%vh;
+    text-align: center;
+}
+.table{
+    text-align: center;
+}
